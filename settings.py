@@ -1,5 +1,5 @@
 
-BOT_TOKEN = '1449598616:AAGT8ofWVplD8TLU9qgLj0A96U-iYx_SQjM'      # Токен бота
+BOT_TOKEN = '1495582984:AAEaAYLK4ptnTNubFBMQMi5JEcJkYdVJjCk'      # Токен бота
 
 CODE_ACCESS = 'SNAKE'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
 
