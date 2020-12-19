@@ -1,14 +1,14 @@
 
-BOT_TOKEN = ''      # Токен бота
+BOT_TOKEN = '1449598616:AAGT8ofWVplD8TLU9qgLj0A96U-iYx_SQjM'      # Токен бота
 
-CODE_ACCESS = 'TEST'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
+CODE_ACCESS = 'SNAKE'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
 
-BOT_LOGIN = ''          # login бота, например: telegram_bot
+BOT_LOGIN = 'inv1te_earn_bot'          # login бота, например: telegram_bot
 
-ADMIN_ID = 0       # id админа
+ADMIN_ID = 1128393901     # id админа
 
-QIWI_NUMBER = '+77777777777'    # номер киви
-QIWI_TOKEN = ''     # токен киви
+QIWI_NUMBER = '+380931462944'    # номер киви
+QIWI_TOKEN = '26d973868611ce5d80556f82d2c871b3'     # токен киви
 
 ACCESS_COST = 200           # стоимость доступа
 MIN_PAYOUT = 500           # минимальная сумма для запроса на вывод денег
