@@ -362,7 +362,7 @@ def access_yes_info(user_id):
 
     cursor.execute(f'SELECT * FROM users WHERE user_id = "{user_id}"')
     ref_code = cursor.fetchone()[4]
-    ref_url = f'https://tele.gg/{settings.BOT_LOGIN}?start={ref_code}'
+    ref_url = f'https://t.me/{settings.BOT_LOGIN}?start={ref_code}'
 
     cursor.execute(f'SELECT * FROM users')
     row = cursor.fetchall()
